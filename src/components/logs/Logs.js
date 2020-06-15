@@ -6,6 +6,8 @@ const Logs = () => {
   const [logs, setLogs] = useState([]);
   const [loading, setLoading] = useState(false);
 
+  //console.log('test')
+
   useEffect(() => {
     getLogs();
     //eslint-disable-next-line
