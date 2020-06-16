@@ -9,13 +9,16 @@ import AddLogModal from './components/logs/AddLogModal';
 import EditLogModal from './components/logs/EditLogModal';
 import AddTechModal from './components/techs/AddTechModal';
 import TechListModal from './components/techs/TechListModal';
+import { Provider } from 'react-redux';
+import store from './store';
+
 const App = () => {
   useEffect(() => {
     //initialize materialize
     M.AutoInit();
   });
   return (
-    <div className='App'>
+    <Provider store={store}>
       <Fragment>
         <SearchBar />
         <div className='container'>
@@ -27,7 +30,7 @@ const App = () => {
           <Logs />
         </div>
       </Fragment>
-    </div>
+    </Provider>
   );
 };
 
