@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "First Log",
+      "id": 1,
+      "message": "Fixed 002 Hardrive",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2020-06-16T02:02:59.622Z",
-      "id": 1
+      "tech": "Sarah Wilson",
+      "date": "2020-06-16T03:01:59.207Z"
     }
   ],
   "techs": [
