@@ -1,11 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
       "message": "Fixed 002 Hardrive",
+      "attention": false,
+      "tech": "Sarah Wilson",
+      "date": "2020-06-16T03:10:36.148Z",
+      "id": 1
+    },
+    {
+      "message": "Testing 123",
       "attention": true,
       "tech": "Sarah Wilson",
-      "date": "2020-06-16T03:01:59.207Z"
+      "date": "2020-06-16T03:10:56.366Z",
+      "id": 2
     }
   ],
   "techs": [
