@@ -16,6 +16,9 @@ const AddTechModal = ({ addTech }) => {
         firstName,
         lastName,
       });
+
+      M.toast({ html: `${firstName} ${lastName} was successfully added.` });
+
       setFirstName('');
       setLastName('');
     }
