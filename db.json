@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Fixed 002 Hardrive",
       "attention": false,
-      "tech": "Sarah Wilson",
-      "date": "2020-06-16T03:10:36.148Z",
-      "id": 1
+      "tech": "Michael Schiumo",
+      "date": "2020-06-16T03:37:20.808Z"
     },
     {
       "message": "Testing 123",
@@ -13,6 +13,13 @@
       "tech": "Sarah Wilson",
       "date": "2020-06-16T03:10:56.366Z",
       "id": 2
+    },
+    {
+      "message": "Fixed 002 Hardrive",
+      "attention": true,
+      "tech": "Sarah Wilson",
+      "date": "2020-06-16T03:36:28.595Z",
+      "id": 3
     }
   ],
   "techs": [
