@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive for station 5",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "First Log",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "tech": "John Doe",
+      "date": "2020-06-16T02:02:59.622Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 5",
+      "message": "second log",
       "attention": false,
-      "date": "03-03-2019",
-      "tech": "Sarah Wilson"
+      "tech": "Sam Smith",
+      "date": "2020-06-16T02:04:01.062Z",
+      "id": 2
     }
   ],
   "techs": [
