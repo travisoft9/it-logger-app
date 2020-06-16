@@ -8,11 +8,11 @@
       "date": "2020-06-16T03:37:20.808Z"
     },
     {
+      "id": 2,
       "message": "Testing 123",
       "attention": true,
-      "tech": "Sarah Wilson",
-      "date": "2020-06-16T03:10:56.366Z",
-      "id": 2
+      "tech": "Sam Smith",
+      "date": "2020-06-16T03:40:55.491Z"
     },
     {
       "message": "Fixed 002 Hardrive",
@@ -42,6 +42,11 @@
       "firstName": "Michael",
       "lastName": "Schiumo",
       "id": 5
+    },
+    {
+      "firstName": "Michele",
+      "lastName": "Schiumo",
+      "id": 6
     }
   ]
 }
